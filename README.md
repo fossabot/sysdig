@@ -2,6 +2,7 @@ sysdig
 ======
 
 [![Build Status](https://travis-ci.org/draios/sysdig.png?branch=master)](https://travis-ci.org/draios/sysdig)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fsysdig.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fsysdig?ref=badge_shield)
 
 [![Join the chat at https://gitter.im/draios/sysdig](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/draios/sysdig?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -97,3 +98,7 @@ Interested in a fully supported, fully distributed version of sysdig? Check out 
 Open source sysdig is proudly supported by [Sysdig Inc](https://sysdig.com/company/).  
 
 Interested in what we're doing? [Sysdig is hiring](https://sysdig.com/jobs/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fsysdig.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fsysdig?ref=badge_large)
